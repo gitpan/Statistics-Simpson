@@ -1,0 +1,7 @@
+ChangeLog
+Makefile.PL
+MANIFEST
+lib/Statistics/Simpson.pm
+t/00new.t
+t/01anon.t
+t/02spec.t
